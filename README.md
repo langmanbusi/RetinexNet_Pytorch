@@ -22,7 +22,7 @@ Please ensure that you cite the paper if you use this code:
 Please download the training and testing datasets from [here](https://daooshee.github.io/BMVC2018website/). 
 ```
 Data folder should like:
--- data_name(Ex. LOL)
+-- data_name(Eg. LOL)
   -- train
     -- low
     -- high
