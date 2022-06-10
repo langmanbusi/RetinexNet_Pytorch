@@ -20,7 +20,7 @@ Please ensure that you cite the paper if you use this code:
 ```
 ### Training
 Please download the training and testing datasets from [here](https://daooshee.github.io/BMVC2018website/). 
-
+```
 Data folder should like:
 -- data_name(Ex. LOL)
   -- train
@@ -29,7 +29,9 @@ Data folder should like:
  -- test
     -- low
     -- high
-    
+```
+
+
 And just run 
 ```
 $ python train.py \
